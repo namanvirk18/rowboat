@@ -1,5 +1,6 @@
 <div align="center"> <a href="https://smolmachines.com"> <img alt="smol machines logo" src="https://github.com/namanvirk18/rowboat/blob/main/assets/rb-logo.png
 " width="80" > </a>
+  
 <p align="center"><b>The multiplayer personal assistant for work.</b></p>
 <p align="center">Every teammate. Their own agent. One Space.</p>
 
