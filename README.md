@@ -9,7 +9,7 @@
 
 <br>
 
-## The multiplayer personal assistant for work.
+<h2>The multiplayer personal assistant for work.</h2>
 
 <p align="center">
     <a href="https://www.rowboatlabs.com/" target="_blank" rel="noopener">
@@ -25,6 +25,8 @@
     <img alt="Y Combinator" src="https://img.shields.io/badge/Y%20Combinator-S24-orange">
   </a>
 </p>
+
+</div>
 
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
