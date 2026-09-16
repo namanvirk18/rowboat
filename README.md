@@ -3,7 +3,7 @@
   <img
     alt="rowboat logo"
     src="https://github.com/namanvirk18/rowboat/raw/main/assets/rb-logo.png"
-    width="330"
+    width="350"
   >
 </a>
 
