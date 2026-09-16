@@ -6,7 +6,9 @@
     width="330"
   >
 </a>
-  
+
+<br>
+
 <p align="center"><b>The multiplayer personal assistant for work.</b></p>
 
 <p align="center">
