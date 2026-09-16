@@ -3,7 +3,7 @@
   <img
     alt="rowboat logo"
     src="https://github.com/namanvirk18/rowboat/raw/main/assets/rb-logo.png"
-    width="200"
+    width="300"
   >
 </a>
   
@@ -11,7 +11,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <a href="https://trendshift.io/repositories/13609" target="blank">
-    <img src="https://trendshift.io/api/badge/repositories/13609" alt="rowboatlabs/rowboat | Trendshift" width="250" height="55"/>
+    <img src="https://trendshift.io/api/badge/repositories/13609" alt="rowboatlabs/rowboat | Trendshift" width="150" height="55"/>
   </a>
 </p>
 
