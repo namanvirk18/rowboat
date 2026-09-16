@@ -9,7 +9,7 @@
 
 <br>
 
-<h2>The multiplayer personal assistant for work.</h2>
+<h3>The multiplayer personal assistant for work.</h3>
 
 <p align="center">
     <a href="https://www.rowboatlabs.com/" target="_blank" rel="noopener">
