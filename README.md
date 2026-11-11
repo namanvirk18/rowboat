@@ -9,7 +9,7 @@
 
 <br>
 
-<h3>The multiplayer personal assistant for work.</h3>
+<h3>Open-source agent workspace that turns Claude Code, Codex, Hermes or any agent you already use into one working team.</h3>
 
 <p align="center">
     <a href="https://www.rowboatlabs.com/" target="_blank" rel="noopener">
