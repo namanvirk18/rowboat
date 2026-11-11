@@ -9,7 +9,7 @@
 
 <br>
 
-<h3>Open-source agent workspace that turns Claude Code, Codex, Hermes or any agent you already use into one working team.</h3>
+<h3>Open-source workspace that turns the agents you already use into one team.</h3>
 
 <p align="center">
     <a href="https://www.rowboatlabs.com/" target="_blank" rel="noopener">
